@@ -47,8 +47,8 @@ Java / Spring Data JPA / Spring Boot / Spring Security / JWT / MariaDB / Gradle 
 답변 등록<br>
 답변 수정<br>
 답변 삭제<br>
-AWS EC2 서버 배포<br>
-AWS S3 클라이언트 배포<br>
+AWS EC2(서버 배포)<br>
+AWS S3(클라이언트 배포)<br>
 
 <br /> <br />
 
