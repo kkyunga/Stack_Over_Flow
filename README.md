@@ -2,11 +2,6 @@
 
 <br /> <br />
 
-<p align="center">
- <img src="https://cdn.discordapp.com/attachments/1080711452421275668/1101075419207311400/KakaoTalk_Photo_2023-04-27-18-20-04.png">
-</p>
-<br /> <br />
-
 ## 프로젝트 기간 🗓️
 
 <br />
